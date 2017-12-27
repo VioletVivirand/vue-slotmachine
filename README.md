@@ -1,4 +1,4 @@
-# slutmachine
+# vue-slotmachine
 
 這是一個使用 Vue.js, [Animate.css](https://daneden.github.io/animate.css/) 做的一個模仿拉霸機動畫的例子，沒有什麼太高深的技巧，純粹好玩罷了。
 
